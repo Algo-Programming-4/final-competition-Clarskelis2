@@ -31,3 +31,6 @@ class Player:
         Student stub: sort data and return new list.
         """
         pass
+    def PlayerStackRun(Commands):
+        pass
+        #Return StackSum
