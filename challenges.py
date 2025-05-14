@@ -1,6 +1,6 @@
 import random
 from typing import List, Tuple
-from player import Player, PlayerStackRun
+from player import Player
 
 
 def olisort_challenge() -> Tuple[bool, str, str]:
